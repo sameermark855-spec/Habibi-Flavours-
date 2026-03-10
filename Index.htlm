@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Habibi Flavours | Mazgaon Mumbai</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#000;
+color:#fff;
+padding:25px;
+text-align:center;
+font-size:30px;
+font-weight:bold;
+}
+
+.hero{
+text-align:center;
+padding:40px;
+background:#fff;
+}
+
+.menu{
+padding:20px;
+}
+
+.item{
+background:#fff;
+margin:15px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.contact{
+background:#000;
+color:#fff;
+text-align:center;
+padding:30px;
+}
+
+.button{
+display:inline-block;
+background:#25D366;
+color:#fff;
+padding:12px 20px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+margin:10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+Habibi Flavours
+</header>
+
+<div class="hero">
+<h2>Welcome to Habibi Flavours</h2>
+<p>Best Street Food in Mazgaon Circle, Mumbai</p>
+</div>
+
+<div class="menu">
+
+<div class="item">
+<h3>Sandwich</h3>
+<p>Fresh and tasty grilled sandwiches.</p>
+</div>
+
+<div class="item">
+<h3>Fried Items</h3>
+<p>Crispy fried snacks and fast food.</p>
+</div>
+
+<div class="item">
+<h3>Pasta</h3>
+<p>Hot creamy pasta with delicious flavour.</p>
+</div>
+
+<div class="item">
+<h3>Drum Sticks</h3>
+<p>Juicy chicken drum sticks.</p>
+</div>
+
+<div class="item">
+<h3>Maggie</h3>
+<p>Special street style maggie.</p>
+</div>
+
+</div>
+
+<div class="contact">
+
+<h3>Contact Us</h3>
+
+<p>📍 Location: Mazgaon Circle, Mumbai</p>
+
+<p>📞 Phone: 9326962288</p>
+
+<a class="button" href="tel:9326962288">Call Now</a>
+
+<a class="button" href="https://wa.me/919326962288">WhatsApp</a>
+
+</div>
+
+</body>
+</html>
